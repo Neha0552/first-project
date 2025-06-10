@@ -23,8 +23,7 @@ This React-based application showcases various customizable interior designs inc
 ## 📸 Preview
 
 > Add screenshots of your app here if possible.
-> <img src ="https://github.com/user-attachments/assets/9abe9ae1-2f39-4ee3-bdab-7e6c49bdf26f"
-"
+> <img src ="https://github.com/user-attachments/assets/9abe9ae1-2f39-4ee3-bdab-7e6c49bdf26f"></img>
 ---
 
 ## 🚀 Features
