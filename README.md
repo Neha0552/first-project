@@ -38,7 +38,7 @@ This React-based application showcases various customizable interior designs inc
 ---
 ## 🛠️ Technologies Used
 
-|Technologies         | Description            |<br/>
+|Technologies         | Description            |<br>
 |----------------------------------------------|<br/>
 | **React.js            |  front-end framework     |<br/>
 
