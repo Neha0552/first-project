@@ -23,7 +23,7 @@ This React-based application showcases various customizable interior designs inc
 ## 📸 Preview
 
 > Add screenshots or a short video of your app here if possible.
-<img src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fhome-furniture&psig=AOvVaw05TyKPlJwstqzLjTkBWsQt&ust=1749623830444000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjwpOue5o0DFQAAAAAdAAAAABAK"
+<img src ="https://media.istockphoto.com/id/520536109/photo/contemporary-elegant-luxury-living-room.jpg?s=612x612&w=0&k=20&c=B2qVuu2PPjkw_CebnOicutAJdSa9K_z5IB4TnZWOTY4=K"
 " width="" height=""></img>
 ---
 
