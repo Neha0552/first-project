@@ -22,12 +22,12 @@ This React-based application showcases various customizable interior designs inc
 
 ## 📸 Preview
 
-> Add screenshots of your app here if possible.<br>
-> <img src ="https://images.unsplash.com/photo-1519710164239-da123dc03ef4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGZ1cm5pdHVyZXxlbnwwfHwwfHx8MA%3D%3D" width="250" height="250"></img>
-
-> <img src ="https://media.istockphoto.com/id/934492496/photo/feminine-living-room-interior.jpg?s=612x612&w=0&k=20&c=jKL6hCYKt7Dbo2NpXSX2Ha5Kos26QllmfTFj6ySNzIU=" width="250" height ="250" ></img>
-
-> <img src ="https://media.istockphoto.com/id/934492496/photo/feminine-living-room-interior.jpg?s=612x612&w=0&k=20&c=jKL6hCYKt7Dbo2NpXSX2Ha5Kos26QllmfTFj6ySNzIU=" width="250" height ="250" ></img>
+><h4> Add screenshots of your app here if possible.<h4><br> 
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1519710164239-da123dc03ef4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGZ1cm5pdHVyZXxlbnwwfHwwfHx8MA%3D%3D" width="250" height="250" />
+  <img src="https://media.istockphoto.com/id/934492496/photo/feminine-living-room-interior.jpg?s=612x612&w=0&k=20&c=jKL6hCYKt7Dbo2NpXSX2Ha5Kos26QllmfTFj6ySNzIU=" width="250" height="250" />
+  <img src="https://media.istockphoto.com/id/934492496/photo/feminine-living-room-interior.jpg?s=612x612&w=0&k=20&c=jKL6hCYKt7Dbo2NpXSX2Ha5Kos26QllmfTFj6ySNzIU=" width="250" height="250" />
+</div>
 ---
 
 ## 🚀 Features
