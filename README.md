@@ -2,7 +2,6 @@
 
 A React-based web application for exploring and customizing interior furniture themes like Living Rooms, Bedrooms, and Kitchens. Includes visual galleries, videos, and interactive navigation using React Router.
 
-<img src ="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGZ1cm5pdHVyZXxlbnwwfHwwfHx8MA%3D%3D" width="100%" height="400"></img>
 
 ---
 
@@ -37,11 +36,19 @@ This React-based application showcases various customizable interior designs inc
 - 🎨 Responsive design via custom CSS
 
 ---
-## 🛠️ Technologies Used
+## 🛠 Technologies Used
 
-|Technologies         | Description            |<br>
-|----------------------------------------------|<br>
-| **React.js**            |  front-end framework     |<br>
+| Technology        | Description                                 |
+|-------------------|---------------------------------------------|
+| *React.js*       | Front-end framework                    |
+| *React Router DOM* | Handles page navigation without reloads   |
+| *JavaScript (ES6+)* | Logic, interaction, and dynamic behavior |
+| *HTML5 + JSX*    | UI structure and dynamic rendering          |
+| *CSS3*           | Custom styling and layout                   |
+| *Bootstrap*      | Responsive design framework                 |
+| *Font Awesome*   | Icon support across the app                 |
+| *useReducer Hook*| Cart & quantity management                  |
+| *Responsive Design* | Mobile and tablet compatibility          |
 
 
 
