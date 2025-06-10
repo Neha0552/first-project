@@ -23,7 +23,7 @@ This React-based application showcases various customizable interior designs inc
 ## 📸 Preview
 
 > Add screenshots or a short video of your app here if possible.
-<img src ="https://github.com/user-attachments/assets/2845d92e-f81b-493c-bf7b-8c7636a57a2chttps://img.freepik.com/free-photo/picture-frame-by-velvet-armchair_53876-132788.jpg?semt=ais_hybrid&w=740
+<img src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fhome-furniture&psig=AOvVaw05TyKPlJwstqzLjTkBWsQt&ust=1749623830444000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjwpOue5o0DFQAAAAAdAAAAABAK"
 " width="" height=""></img>
 ---
 
