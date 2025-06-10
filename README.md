@@ -40,7 +40,7 @@ This React-based application showcases various customizable interior designs inc
 
 |Technologies         | Description            |
 |----------------------------------------------|
-| **React.js            | Core front-end framework     |
+| **React.js            |  front-end framework     |
 
 
 
