@@ -26,7 +26,7 @@ This React-based application showcases various customizable interior designs inc
 <div align="center">
   <img src="https://images.unsplash.com/photo-1519710164239-da123dc03ef4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGZ1cm5pdHVyZXxlbnwwfHwwfHx8MA%3D%3D" width="250" height="250" />
   <img src="https://media.istockphoto.com/id/934492496/photo/feminine-living-room-interior.jpg?s=612x612&w=0&k=20&c=jKL6hCYKt7Dbo2NpXSX2Ha5Kos26QllmfTFj6ySNzIU=" width="250" height="250" />
-  <img src="https://media.istockphoto.com/id/2112721791/video/animation-of-modern-contemporary-style-small-wooden-terrace-with-garden-view-3d-render.avif?s=640x640&k=20&c=UL9uzK2Oxx1gIbyUAhL0jn80arZsx6g-f6mYf0UWgdo=" width="250" height="250" />
+  <img src="https://media.istockphoto.com/id/958336434/photo/wooden-kitchen-and-dining-room.jpg?s=612x612&w=0&k=20&c=ny7CCGHv1OsI7DVmd38O7ctq2JWUPyVMg5cLg4z65eo=" width="250" height="250" />
 </div>
 ---
 
