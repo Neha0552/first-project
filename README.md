@@ -17,10 +17,10 @@ A React-based web application for exploring and customizing interior furniture t
 
 ## 🛠️ Technologies Used
 
-- React
+- React,Node.js, Mongodb,Git
 - React Router DOM
 - CSS (Custom styling)
-- HTML5 `<video>` tag for media embedding
+  
 
 ---
 
