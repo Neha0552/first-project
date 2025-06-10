@@ -1,7 +1,7 @@
 # 🪑 Furniture Customization Web App
 
 A React-based web application for exploring and customizing interior furniture themes like Living Rooms, Bedrooms, and Kitchens. Includes visual galleries, videos, and interactive navigation using React Router.
-
+<img src ="https://github.com/user-attachments/assets/9abe9ae1-2f39-4ee3-bdab-7e6c49bdf26f" width="100%" height="400"></img>
 
 ---
 
