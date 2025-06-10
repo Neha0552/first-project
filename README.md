@@ -17,14 +17,33 @@ A React-based web application for exploring and customizing interior furniture t
 
 ---
 
+# 🛋️ Customize Furniture App
+
+This React-based application showcases various customizable interior designs including **living rooms**, **bedrooms**, **kitchens**, and **media previews**. Each section displays beautiful card layouts with images and videos to inspire your dream space.
+
+## 📸 Preview
+
+> Add screenshots or a short video of your app here if possible.
+<img src ="C:\Users\dell\Pictures\Screenshots\Screenshot (4).png" width="100%" height="400"></img>
+---
+
+## 🚀 Features
+
+- ✅ Interactive card layout for furniture and room inspiration
+- 🖼️ High-quality images of interiors
+- 📽️ Embedded videos of room transformations
+- 🔁 Easy navigation with React Router
+- 🎨 Responsive design via custom CSS
+
+---
+
 ## 🛠️ Technologies Used
 
 - React,Node.js, Mongodb,Git
 - React Router DOM
 - CSS (Custom styling)
-  
 
----
+
 
 
 
