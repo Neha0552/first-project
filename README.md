@@ -24,7 +24,7 @@ This React-based application showcases various customizable interior designs inc
 ## 📸 Preview
 
 > Add screenshots or a short video of your app here if possible.
-<img src ="\Screenshots\Screenshot (4).png" width="100%" height="400"></img>
+<img src ="\Screenshot (4).png" width="100%" height="400"></img>
 ---
 
 ## 🚀 Features
@@ -40,7 +40,7 @@ This React-based application showcases various customizable interior designs inc
 
 |Technologies         | Description            |<br>
 |----------------------------------------------|<br>
-| **React.js**            |  front-end framework     |
+| **React.js**            |  front-end framework     |<br>
 
 
 
