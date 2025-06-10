@@ -2,7 +2,7 @@
 
 A React-based web application for exploring and customizing interior furniture themes like Living Rooms, Bedrooms, and Kitchens. Includes visual galleries, videos, and interactive navigation using React Router.
 
-<img src ="https://images.unsplash.com/photo-1618220179428-22790b461013?q=80&w=2127&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100%" height="400"></img>
+<img src ="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGZ1cm5pdHVyZXxlbnwwfHwwfHx8MA%3D%3D" width="100%" height="400"></img>
 
 ---
 
