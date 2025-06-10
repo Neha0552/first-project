@@ -36,12 +36,11 @@ This React-based application showcases various customizable interior designs inc
 - 🎨 Responsive design via custom CSS
 
 ---
-
 ## 🛠️ Technologies Used
 
-- React,Node.js, Mongodb,Git
-- React Router DOM
-- CSS (Custom styling)
+|Technologies         | Description            |
+|----------------------------------------------|
+| **React.js            | Core front-end framework     |
 
 
 
