@@ -24,7 +24,7 @@ This React-based application showcases various customizable interior designs inc
 ## 📸 Preview
 
 > Add screenshots or a short video of your app here if possible.
-<img src ="Pictures\Screenshots\Screenshot (4).png" width="100%" height="400"></img>
+<img src ="\Screenshots\Screenshot (4).png" width="100%" height="400"></img>
 ---
 
 ## 🚀 Features
