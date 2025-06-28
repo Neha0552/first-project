@@ -50,9 +50,8 @@ This is a React-based furniture eCommerce UI, including features like:
 
 ## How to Run
 
-1. Clone the repo
-2. Run `npm install`
-3. Run `npm start`
+1. Run `npm install`
+2. Run `npm start`
 
 ## Features
 
@@ -106,25 +105,42 @@ A modern, responsive furniture eCommerce web application built using **React.js*
 
 ---
 src/
+
 ├── App.css
+
 ├── App.jsx / Interface.jsx
+
 ├── login.css
+
 ├── components/
+
 │ ├── AboutUs.jsx
+
 │ ├── Cards.jsx
+
 │ ├── Collection.jsx
+
 │ ├── ContactUs.jsx
+
 │ ├── Customise.jsx
+
 │ ├── Footer.jsx
+
 │ ├── Latest.jsx
+
 │ ├── Store.jsx
+
 │ ├── Testimonial.jsx
+
 │ └── Login.jsx
+
 ├── carousel/
+
 │ ├── onee.avif
 │ ├── two.avif
 │ ├── ...
 ├── main.jsx
+
 ---
 ## 🛠 Technologies Used
 
