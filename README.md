@@ -61,6 +61,34 @@ This is a React-based furniture eCommerce UI, including features like:
 - Modular components
 
 
+# 🪑 Furniture Store Web App
+
+A modern, responsive furniture eCommerce UI built with **React.js**. The app showcases furniture collections, allows basic login, and supports an "add to cart" feature with cart badge updates.
+
+---
+
+## 📌 Features
+
+- 🧭 Navigation Bar with links and dropdown
+- 🛍️ Dynamic "Add to Cart" functionality
+- 🎠 Bootstrap Carousel for product highlights
+- 📦 Modular React components (`AboutUs`, `Store`, `Cards`, etc.)
+- 🔐 Login form with API integration (`POST /login`)
+- 🧑‍💻 Clean and maintainable code structure
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **React Router**
+- **Bootstrap 5**
+- **Font Awesome**
+- **CSS Modules**
+
+---
+
+
 ---
 ## 🛠 Technologies Used
 
