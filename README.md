@@ -38,6 +38,29 @@ This React-based application showcases various customizable interior designs inc
 - 🔁 Easy navigation with React Router
 - 🎨 Responsive design via custom CSS
 
+
+# Furniture Website Interface
+
+This is a React-based furniture eCommerce UI, including features like:
+
+- Navbar with login and cart
+- Product carousel
+- Add to cart functionality
+- About, Store, Collections, and more
+
+## How to Run
+
+1. Clone the repo
+2. Run `npm install`
+3. Run `npm start`
+
+## Features
+
+- Bootstrap carousel
+- Cart badge with dynamic count
+- Modular components
+
+
 ---
 ## 🛠 Technologies Used
 
