@@ -150,7 +150,8 @@ This is a simple React-based furniture store landing page. It showcases our offe
 
 📸 Screenshots
 
-  <img src="Screenshots\Screenshot (6).png" width="250" height="250" />
+ <img width="1920" height="867" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/49e2f776-26ff-43ee-8bf7-37f4f89921bf" />
+
   
 ---
 
