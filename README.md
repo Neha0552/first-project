@@ -149,10 +149,22 @@ src/
 This is a simple React-based furniture store landing page. It showcases our offerings and provides an easy way for users to get in touch or learn more about the types of furniture we offer.
 
 📸 Screenshots
-<div align="center">
-  <img src="Screenshots\Screenshot (6).png" width="250" height="250" />
-  <div>
 
+  <img src="Screenshots\Screenshot (6).png" width="250" height="250" />
+  
+---
+
+🔗 Useful Links
+
+About Furniture Types (Wikipedia)
+
+✨ Features
+
+Responsive header with call-to-action buttons
+
+Informational section about wood and furniture
+
+Link to external resources
 
 
 ## 🛠 Technologies Used
