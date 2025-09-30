@@ -142,6 +142,19 @@ src/
 ├── main.jsx
 
 ---
+
+# Furniture Store Website
+
+## 🛋️ About the Project
+This is a simple React-based furniture store landing page. It showcases our offerings and provides an easy way for users to get in touch or learn more about the types of furniture we offer.
+
+📸 Screenshots
+<div align="center">
+  <img src="C:\Users\dell\Pictures\Screenshots\Screenshot (6).png" width="250" height="250" />
+  <div>
+
+
+
 ## 🛠 Technologies Used
 
 | Technology        | Description                                 |
