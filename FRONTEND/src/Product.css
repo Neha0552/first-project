@@ -1,0 +1,160 @@
+.product {
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding: 20px;
+    justify-content: center;
+}
+
+.card1 {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    width: 260px;
+    height: 500px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+    align-items: center;
+    justify-content: center;
+}
+
+.card1:hover {
+    transform: scale(1.03);
+}
+
+.card1 img {
+    border-radius: 4px;
+    height: auto;
+    width: 100%;
+}
+
+.card1 h4 {
+    /* margin-left: 5px; */
+    font-size: 1.1rem;
+    margin: 10px 0 5px;
+}
+
+.card1 p {
+    font-size: 1rem;
+    color: #555;
+    margin: 5px 0 15px;
+    text-align: center;
+}
+
+/* SINGLE UNIT PRICE CONTAINER.  */
+
+.singleUnitPriceCounter
+{
+    text-decoration: underline;
+    text-underline-offset: 5px;
+    text-decoration-thickness: 2px;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.productOrigin
+{
+    width: 140px;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: row;
+    padding: 3px;
+    align-items: center;
+    justify-content: center;
+}
+
+.productOrigin>img
+{
+    margin: 0px 5px;
+}
+
+/* LIVE PRICE CONTAINER. */
+
+/* .livePriceCounter
+{
+    height: 60px;
+    width: 60px;
+    border: 3px solid blue;
+} */
+
+.butn{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 70px;
+    width: 250px;
+    border-radius: 4px;
+}
+
+#quantityCounter
+{
+    border: transparent;
+    border-radius: 10px;
+    height: 40px;
+    width: 50px;
+    align-content: center;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    background-color: rgb(173, 216, 230, 0.3);
+}
+
+.itemOneButtons
+{
+    border: transparent;
+    border-radius: 10px;
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+    font-weight: bold;
+    background-color: #007bff;
+    color: white;
+    margin: 5px 7px;
+}
+
+.card1 button { 
+    border: transparent;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    background-color: #007bff;
+    color: white;
+    margin: 5px 7px; 
+} 
+
+.card1 button:hover {
+    background-color: #0056b3;
+}
+
+.sofa h1{
+    margin-top: 20px;
+    margin-left: 500px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-size: 45px;
+}
+
+.kitchen h1{
+    margin-top: 20px;
+    margin-left: 500px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+}
+
+.dressing h1{
+    margin-top: 20px;
+    margin-left: 500px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+}
+
+#goback
+{
+    margin-left: 600px;
+    position: relative;
+    top: 10px
+}

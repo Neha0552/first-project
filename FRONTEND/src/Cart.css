@@ -1,0 +1,16 @@
+/* EXTERNAL STYLESHEET DOCUMENT FOR CART COMPONENT (Cart.jsx); */
+
+#mainContainer
+{
+    background-color: teal;
+    border: 5px solid red;
+}
+
+/* MAIN HEADING OF THE CART SECTION. */
+
+#mainHeading
+{
+    color:red;
+    text-align: center;
+    font-size: 50px;
+}

@@ -1,0 +1,225 @@
+.room{
+/* background-image: url(Readmore/nine.jpg); */
+background-size: cover;
+}
+
+#mainContainer
+{
+    /* border: 1px solid red; */
+    height: 98vh;
+    width: 100vw;
+    display:contents;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    margin-top:23px;
+}
+#mainContainer h1{
+   color: black;
+   text-align: center;
+   margin-top: 20px;
+   font-style: italic;
+   font-family: "Dancing Script", cursive;
+   font-size: 35px;
+   text-decoration: underline;
+}
+.card-row {
+    margin-top: 25px;
+    /* border: 2px solid black; */
+    display: flex;
+    flex-wrap: wrap; /* allows wrapping on smaller screens */
+    gap: 50px;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.card-row h2{
+    color: #562551;
+    display: flex;
+    position: absolute;
+    text-align: center;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight:normal;
+    font-style:italic;
+    text-decoration: underline;
+}
+.card-row h6{
+  margin-top:50px ;
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight:normal;
+  font-style:italic;
+  font-size: 18px;
+  color: black;
+}
+
+.card {
+    /* margin-top: 5px; */
+    background-color: #dfefef;
+    border: 1px solid #987D9A;
+    border-radius: 2px ;
+    display: flex;
+    flex-wrap: nowrap;
+    box-shadow: 10px 10px 10px  #B3C8CF;
+    height: 320px;
+    width: 250px;
+    overflow: hidden;
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    box-shadow: 10px 10px 10px  #9CAFAA;
+    border: 2px solid #A0937D;
+    transform: translateY(5px);
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+.cardtwo {
+    /* margin-top: 5px; */
+    background-color: #f1f7d9;
+    border: 1px solid #E1F0DA;
+    border-radius: 2px ;
+    box-shadow: 10px 10px 10px  #B3C8CF;
+    height: 380px;
+    width: 250px;
+    overflow: hidden;
+    transition: transform 0.2s;
+}
+
+.cardtwo:hover {
+    box-shadow: 10px 10px 10px  #9CAFAA;
+    border: 2px solid #A0937D;
+    transform: translateY(5px);
+}
+
+.cardtwo img {
+    width: 100%;
+    height: auto;
+}
+
+.cardthree {
+    /* margin-right: 10px; */
+    background-color: #E4EFE7;
+    border: 1px solid #C5D3E8;
+    border-radius: 2px ;
+    box-shadow: 10px 10px 10px  #B3C8CF;
+    height: 380px;
+    width: 250px;
+    overflow: hidden;
+    transition: transform 0.2s;
+}
+
+.cardthrees {
+    margin-right: 5px;
+    padding-left: 10px;
+    background-color: #E4EFE7;
+    border: 1px solid #C5D3E8;
+    border-radius: 2px ;
+    box-shadow: 10px 10px 10px  #B3C8CF;
+    height: 380px;
+    width: 250px;
+    overflow: hidden;
+    transition: transform 0.2s;
+}
+
+.cardthree:hover {
+    box-shadow: 10px 10px 10px  #BED7DC;
+    border: 2px solid #A0937D;
+    transform: translateY(5px);
+}
+
+.cardthree img {
+    width: 100%;
+    height: auto;
+}
+
+.cardfour {
+    /* margin-top: 5px; */
+    margin-right: 5px;
+    background-color: #E4EFE7;
+    border: 1px solid #C5D3E8;
+    border-radius: 2px ;
+    box-shadow: 10px 10px 10px  #B3C8CF;
+    height: 380px;
+    width: 250px;
+    overflow: hidden;
+    transition: transform 0.2s;
+}
+
+.cardfour:hover {
+    box-shadow: 10px 10px 10px  #BED7DC;
+    border: 2px solid #A0937D;
+    transform: translateY(5px);
+}
+
+.cardfour img {
+    width: 100%;
+    height: auto;
+}
+
+
+
+.card-content {
+    padding: 16px;
+}
+
+.card-title {
+    font-size: 18px;
+    font-style: italic;
+    color: darkgreen;
+    /* margin: 0 0 10px; */
+}
+
+.card-description {
+    font-size: 15px;
+    color: brown;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.card-titles {
+    font-size: 18px;
+    font-style: italic;
+    color: #653053;
+    /* margin: 0 0 10px; */
+}
+
+.card-descriptions {
+    font-size: 15px;
+    color: #1b2f4d;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.card-title1 {
+    font-size: 18px;
+    font-style: italic;
+    color: #06417c;
+    /* margin: 0 0 10px; */
+}
+
+.card-description1 {
+    font-size: 15px;
+    color: #562551;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.card-title2 {
+    font-size: 18px;
+    font-style: italic;
+    color: #06417c;
+    /* margin: 0 0 10px; */
+}
+
+
+#back
+{
+    margin-left: 510px;
+    position: relative;
+    top: 10px
+}
